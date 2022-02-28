@@ -11,8 +11,6 @@ aws s3 cp s3://<S3BucketName> <Fully Qualified Local filename/Directory>
 aws s3 rb s3://bucket-name --force
 
 # Test
-<<<<<<< HEAD
 # tesing with full flow
-=======
 # increased testing
->>>>>>> 099f651bbc4bf12c0307d3332334227474fcb5ee
+# hai
