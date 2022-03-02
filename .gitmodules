@@ -1,3 +1,6 @@
 [submodule "Hello"]
 	path = Hello
 	url = https://github.com/navchait/Hello.git
+[submodule "Ansible"]
+	path = Ansible
+	url = https://github.com/navchait/Ansible.git
