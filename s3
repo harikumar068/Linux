@@ -13,6 +13,9 @@ aws s3 rb s3://bucket-name --force
 # tesing with git branches
 # hai
 
+<<<<<<< HEAD
 # Testing the revert commit 1st
 # Testing the revert commit 2nd
 # Testing the revert commit 3rd
+=======
+>>>>>>> parent of 2e1a6be... testing 1st commit
