@@ -1,0 +1,14 @@
+Install software source manager
+
+# sudo apt-get update
+# sudo apt-get install software-properties-common
+
+Add mirror with openjdk-8-jdk
+
+# sudo apt-add-repository 'deb http://security.debian.org/debian-security stretch/updates main'
+# sudo apt-get update
+
+Install openjdk 8
+
+# sudo apt-get install openjdk-8-jdk
+
